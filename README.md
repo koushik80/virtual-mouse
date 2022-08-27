@@ -1,5 +1,5 @@
 <div align="center"><a href="" target="_blank">Virtual mouse</a></div>
-<h1 align="center">Eye controlled Mouse | python</h1><br>
+<h1 align="center">Eye Controlled Mouse | Python</h1><br>
 <h3 align="left">Technologies:</h3>
 <ul>
 <li>Python</li>
